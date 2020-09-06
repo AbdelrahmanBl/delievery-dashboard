@@ -1,0 +1,4 @@
+[2020-07-21 13:03:55] local.ERROR: Cannot redeclare App\Http\Controllers\Api\adminMethodsController::addService() {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot redeclare App\\Http\\Controllers\\Api\\adminMethodsController::addService() at C:\\xampp\\htdocs\\Admin\\app\\Http\\Controllers\\Api\\adminMethodsController.php:1978)
+[stacktrace]
+#0 {main}
+"} 
